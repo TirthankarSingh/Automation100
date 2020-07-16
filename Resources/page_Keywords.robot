@@ -4,7 +4,7 @@ Library  SeleniumLibrary
 
 *** Keywords ***
 Setup
-    Create Webdriver    Chrome    executable_path= ..\\chromedriver_win32\\chromedriver.exe
+    Create Webdriver    Chrome     executable_path=chromedriver_win32\\chromedriver.exe
     Go to    http://www.fb.com
 
 Login
