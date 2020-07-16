@@ -9,7 +9,7 @@ Setup
 
 Login
     [Arguments]    ${User_Name}    ${Password}
-    sleep   5
     Maximize Browser Window
+    sleep   4
     Input Text	     email     ${User_Name}
     Input Password   pass     ${Password}
