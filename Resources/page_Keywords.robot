@@ -13,3 +13,4 @@ Login
     sleep   4
     Input Text	     email     ${User_Name}
     Input Password   pass     ${Password}
+    Close Browser
