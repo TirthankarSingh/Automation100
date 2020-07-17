@@ -10,5 +10,7 @@ TestCase1
     log to console  "Hello"
     Login  122   123
 
+test2
+    log to console   "2nd test"
 
 
