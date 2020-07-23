@@ -14,4 +14,5 @@ test2
     [tags]  second test
     log to console   "2nd test"
 
-
+test 3
+    log to console  "third test"
