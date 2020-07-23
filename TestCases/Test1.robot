@@ -11,6 +11,7 @@ TestCase1
     Login  122   123
 
 test2
+    [tags]  second test
     log to console   "2nd test"
 
 
